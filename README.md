@@ -1,4 +1,6 @@
 ### Usage
->>> git clone https://github.com/fajarramadhann/my-links-website-.git
->>> npm install
->>> npm run dev
+```sh
+git clone https://github.com/its-ag/linkzia-v2.git
+npm install
+npm run dev
+```

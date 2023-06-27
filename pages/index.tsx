@@ -3,7 +3,7 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "Fajarr-";
-const belowLink = "hi.fajarrmdhn.me 👋🏻"
+const belowLink = "links.fajarrmdhn.me 👋🏻"
 const bio = "backend, cybersec | nodejs, python"
 
 const twitter = "https://twitter.com/0xLog1c_";
@@ -157,7 +157,7 @@ export default function Home() {
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
-                          className="h-7 w-7"
+                          className="h-9 w-9"
                           xmlns="http://www.w3.org/2000/svg"
                           height="800"
                           width="1200"
